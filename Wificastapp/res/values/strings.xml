@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Wificast</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="username">Username</string>
+    <string name="receiver">Receiver</string>
+    <string name="sender">Sender</string>
+    <string name="next">Next</string>
+    <string name="enter_name">Enter device Name</string>
+    <string name="title_activity_sender">Sender</string>
+    <string name="title_activity_receiver">Receiver</string>
+    <string name="fileName">File Name</string>
+    <string name="file_size">File Size</string>
+    <string name="title_activity_file_chooser">FileChooser</string>
+    <string name="title_activity_sender_connection">SenderConnection</string>
+
+</resources>
